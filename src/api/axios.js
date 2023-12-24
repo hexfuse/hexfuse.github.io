@@ -1,5 +1,5 @@
 import axios from "axios";
-const BASE_URL = "http://localhost:3500";
+const BASE_URL = "https://4b225c4208553c0b624205fa1ab1f293.serveo.net/";
 
 export default axios.create({
   baseURL: BASE_URL,
